@@ -1,0 +1,3 @@
+Model\Newsletters.class
+Model\News.class
+servlets\NewServlet.class
